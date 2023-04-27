@@ -6,4 +6,4 @@ demo my shader
 - [Point Wave Shader](https://youtu.be/yxiPmFkRS2w)
 - [Custom Pattern Flow Shader](https://youtu.be/DrvOonIyeHo)
 - [Dissolve Shader](https://youtu.be/_zrOl7U7mCA)
-- [Rim Shader](https://youtu.be/Qs9BJlGtQK4)
+- [Rim Fresnel Shader](https://youtu.be/Qs9BJlGtQK4)
